@@ -35,6 +35,12 @@
    "name": "شيكولة طي",
    "price": 580,
    "unit": "kg"
+  },
+  {
+   "id": "mvtz3tb3ftja",
+   "name": "شيكولاطة",
+   "price": 60,
+   "unit": "kg"
   }
  ],
  "projects": [
