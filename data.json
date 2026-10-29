@@ -29,6 +29,12 @@
    "name": "كريمة سائلة",
    "price": 555.55,
    "unit": "L"
+  },
+  {
+   "id": "mvtz1fxkcfeg",
+   "name": "شيكولة طي",
+   "price": 580,
+   "unit": "kg"
   }
  ],
  "projects": [
