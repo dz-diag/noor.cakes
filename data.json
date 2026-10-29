@@ -1,0 +1,56 @@
+{
+ "ings": [
+  {
+   "id": "mvtxffbkvvjh",
+   "name": "فرينة",
+   "price": 200,
+   "unit": "kg"
+  },
+  {
+   "id": "mvtxfll65mwf",
+   "name": "البيض",
+   "price": 20,
+   "unit": "piece"
+  },
+  {
+   "id": "mvtxfqtl1hc8",
+   "name": "السكر",
+   "price": 95,
+   "unit": "kg"
+  },
+  {
+   "id": "mvtxfvo4bi3b",
+   "name": "المحسن",
+   "price": 1000,
+   "unit": "kg"
+  }
+ ],
+ "projects": [
+  {
+   "id": "mvtxgs5i1vfh",
+   "name": "كيكة مول 10 سم",
+   "lines": [
+    {
+     "id": "mvtxgaloxipo",
+     "ing": "mvtxffbkvvjh",
+     "qty": 80
+    },
+    {
+     "id": "mvtxgdx3dlc8",
+     "ing": "mvtxfll65mwf",
+     "qty": 2
+    },
+    {
+     "id": "mvtxgmi0sm3m",
+     "ing": "mvtxfqtl1hc8",
+     "qty": 80
+    },
+    {
+     "id": "mvtxgr1cmm3a",
+     "ing": "mvtxfvo4bi3b",
+     "qty": 10
+    }
+   ]
+  }
+ ]
+}
