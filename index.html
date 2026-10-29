@@ -134,7 +134,7 @@ let S={ings:[],projects:[],cur:{id:null,name:'',lines:[]}};
 try{const r=localStorage.getItem(KEY);if(r){const d=JSON.parse(r);if(d&&d.ings)S=Object.assign(S,d)}}catch(e){}
 const API='api.php',api={key:''};
 try{api.key=localStorage.getItem('noor_key')||''}catch(e){}
-const setSync=s=>{const e=$('#sync');e.className='sync '+s;e.textContent=s==='ok'?'● محفوظ على الموقع':s==='wait'?'● جارٍ الحفظ…':'● حفظ في هذا المتصفح فقط'};
+const setSync=s=>{const e=$('#sync');e.className='sync '+s;e.textContent=s==='ok'?'● محفوظ على الموقع':s==='wait'?'● جارٍ الحفظ…':'● MINI CAKES & SWEETS '};
 async function call(o){o=Object.assign({cache:'no-store'},o||{});o.headers=Object.assign({'X-Key':api.key},o.headers||{});
   let r=await fetch(API,o);
   if(r.status===401){const k=prompt('أدخل كلمة السر الخاصة بالموقع');if(k===null)throw 0;api.key=k;try{localStorage.setItem('noor_key',k)}catch(e){}o.headers['X-Key']=k;r=await fetch(API,o)}
