@@ -41,12 +41,6 @@
    "name": "شيكولاطة",
    "price": 700,
    "unit": "kg"
-  },
-  {
-   "id": "mvtz8t926fwm",
-   "name": "كولي الفراولة",
-   "price": 920,
-   "unit": "kg"
   }
  ],
  "projects": [
@@ -88,11 +82,6 @@
      "id": "mvtz7k9zk0mx",
      "ing": "mvtz3tb3ftja",
      "qty": 200
-    },
-    {
-     "id": "mvtz94l0vcjl",
-     "ing": "mvtz8t926fwm",
-     "qty": 50
     }
    ]
   }
