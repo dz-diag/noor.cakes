@@ -53,6 +53,12 @@
    "name": "كرام شونتي",
    "price": 750,
    "unit": "kg"
+  },
+  {
+   "id": "mw5gxymizy43",
+   "name": "الكارامال",
+   "price": 500,
+   "unit": "kg"
   }
  ],
  "projects": [
