@@ -47,6 +47,12 @@
    "name": "الجوز",
    "price": 1650,
    "unit": "g"
+  },
+  {
+   "id": "mw5gx08u2bhe",
+   "name": "كرام شونتي",
+   "price": 750,
+   "unit": "kg"
   }
  ],
  "projects": [
