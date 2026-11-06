@@ -63,7 +63,7 @@
  ],
  "projects": [
   {
-   "id": "mvtxgs5i1vfh",
+   "id": "mw5h6itas585",
    "name": "كيكة مول 10 سم",
    "lines": [
     {
@@ -99,6 +99,21 @@
     {
      "id": "mvtz7k9zk0mx",
      "ing": "mvtz3tb3ftja",
+     "qty": 200
+    },
+    {
+     "id": "mw5h0a19s9k0",
+     "ing": "mw5gxymizy43",
+     "qty": 40
+    },
+    {
+     "id": "mw5h1fksw4v3",
+     "ing": "mw5h19g51zj0",
+     "qty": 50
+    },
+    {
+     "id": "mw5h2h9e4fpd",
+     "ing": "mw5gx08u2bhe",
      "qty": 200
     }
    ]
