@@ -53,6 +53,12 @@
    "name": "الكارامال",
    "price": 500,
    "unit": "kg"
+  },
+  {
+   "id": "mw5h19g51zj0",
+   "name": "الجوز",
+   "price": 1500,
+   "unit": "kg"
   }
  ],
  "projects": [
