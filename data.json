@@ -41,6 +41,12 @@
    "name": "شيكولاطة",
    "price": 700,
    "unit": "kg"
+  },
+  {
+   "id": "mw5gwka1osha",
+   "name": "الجوز",
+   "price": 1650,
+   "unit": "g"
   }
  ],
  "projects": [
